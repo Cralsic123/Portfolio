@@ -7,7 +7,7 @@
   padding: 0;
 }
 body {
-  background-image: url('./assets/pawel-czerwinski-dgJT71cXlC4-unsplash.jpg'); /* Replace 'background_image.jpg' with the path to your actual background image */
+  background-image: url('./assets/light green.jpg'); /* Replace 'background_image.jpg' with the path to your actual background image */
   background-color: #33FF68;
   background-size: cover;
   background-repeat: no-repeat;
@@ -412,8 +412,9 @@ article .icon {
 }
 
 .internship-container2{
-  background-image: url('./assets/pink.jpeg');
+  /*background-image: url('./assets/pink.jpeg');*/
    /* Adjust the alpha value (0.7) as needed for transparency */
+  background: rgb(188,245,188)
   border-radius: 2rem;
   border-color: rgb(0, 0, 0);
   padding: 2rem; /* Add padding to maintain spacing */

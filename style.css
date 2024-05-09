@@ -8,7 +8,7 @@
 }
 body {
   background-image: url('./assets/light green.jpeg'); /* Replace 'background_image.jpg' with the path to your actual background image */
-  background-color: #33FF68;
+  /*background-color: #33FF68;*/
   background-size: cover;
   background-repeat: no-repeat;
 }
